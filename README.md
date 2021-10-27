@@ -1,16 +1,15 @@
-### Hi there 👋
+# Luan
 
-<!--
-**luan-dev/luan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FHIR/) and workflow automation in Google Cloud
 
-Here are some ideas to get you started:
+### Recent Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+### Contact Me
+
+Discord: Luan#8888
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luan-dev.visitor-badge)

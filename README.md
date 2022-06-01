@@ -1,6 +1,6 @@
 # Luan
 
-Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FHIR/) and workflow automation in Google Cloud
+Software Engineer at [Asymmetrik](https://asymmetrik.com/). Consultant for [The Broad Institute](https://www.broadinstitute.org/).
 
 ### Recent Activity
 

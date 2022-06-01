@@ -5,5 +5,3 @@ Software Engineer at [Asymmetrik](https://asymmetrik.com/). Consultant for [The 
 ### Contact Me
 
 Discord: Luan#8888
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=luan-dev.visitor-badge)

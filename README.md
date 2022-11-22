@@ -1,6 +1,6 @@
 # Luan
 
-Software Engineer at [Asymmetrik](https://asymmetrik.com/). Consultant for [The Broad Institute](https://www.broadinstitute.org/).
+Software Engineer at [BlueHalo](https://bluehalo.com/). Consultant for [The Broad Institute](https://www.broadinstitute.org/).
 
 ### Contact Me
 
